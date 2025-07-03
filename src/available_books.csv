@@ -1,0 +1,22 @@
+ID,Book Name,Author,Available
+101,Java,Tim,yes
+102,1984,George Orwell,No
+103,The Great Gatsby,F. Scott Fitzgerald,Yes
+104,Pride and Prejudice,Jane Austen,Yes
+105,The Catcher in the Rye,J.D. Salinger,No
+106,The Hobbit,J.R.R. Tolkien,Yes
+107,Fahrenheit 451,Ray Bradbury,Yes
+108,Animal Farm,George Orwell,No
+109,Moby Dick,Herman Melville,Yes
+110,War and Peace,Leo Tolstoy,No
+111,The Odyssey,Homer,Yes
+112,Brave New World,Aldous Huxley,Yes
+113,The Divine Comedy,Dante Alighieri,No
+114,Crime and Punishment,Fyodor Dostoevsky,Yes
+115,The Brothers Karamazov,Fyodor Dostoevsky,No
+116,The Kite Runner,Khaled Hosseini,Yes
+117,The Book Thief,Markus Zusak,No
+118,The Alchemist,Paulo Coelho,Yes
+119,A Tale of Two Cities,Charles Dickens,yes
+120,Les Miserables,Dany Luiz,yes
+121,Python,David,yes
